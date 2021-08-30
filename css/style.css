@@ -1,0 +1,16 @@
+
+
+
+.product-img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+.product-title {
+    padding-top: 10px;
+}
+
+.create-new-product {
+    margin-top: 95px;
+}
